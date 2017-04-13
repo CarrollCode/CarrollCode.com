@@ -1,0 +1,125 @@
+#about-us .table-block h1 {    /*About Color*/
+  color: #4286f4;
+}
+
+/* line 822, ../sass/style.scss */       /*-- in About*/
+#about-us h4:before {
+  background: #fff1f1;
+  bottom: 0;
+  content: " ";
+  height: 2px;
+  left: 50%;
+  margin-left: -20px;
+  position: absolute;
+  width: 40px;
+}
+
+/* line 833, ../sass/style.scss */ /*What do I do?*/
+#about-us h5 {
+  color: #4286f4;
+}
+
+#about-us .t2 p {
+  color: #fff1f1;                   /*Welcome text*/
+  font-size: 18px;
+  font-size: 1.28571rem;
+  letter-spacing: 0;
+  line-height: 1.65;
+}
+
+#about-us .table-block h1,
+#about-us h5 {
+  color: #4286f4;
+}
+
+.portfolio .isotop-filters {        /*Portfolio blue box*/
+  background: #4286f4;
+  opacity: 0.95;
+}
+
+.red-color {                          /*Headers in skills*/
+  color: #4286f4;
+}
+
+.top-nav-line #menu-open .text {
+  color: #4286f4;
+}
+
+/* line 90, ../sass/variables-theme-2.scss */             /*Inside menu colors*/
+.menu-sidebar .header-box > div ul li a,
+.menu-sidebar .header-box > div ul li a i {
+  color: #4286f4 !important;
+}
+@media (max-width: 767px) {
+  /* line 90, ../sass/variables-theme-2.scss */          /*Inside menu colors*/
+  .menu-sidebar .header-box > div ul li a,
+  .menu-sidebar .header-box > div ul li a i {
+    color: #4286f4 !important;
+  }
+}
+/* line 95, ../sass/variables-theme-2.scss */            /*Inside menu colors*/
+.menu-sidebar .header-box > div ul li a:after,
+.menu-sidebar .header-box > div ul li a i:after {
+  background: #4286f4;
+}
+
+
+
+/* line 34, ../sass/variables-theme-2.scss */                                /*Menu color*/
+a.default-hovered:after {
+  background: #4286f4;
+}
+
+/* line 37, ../sass/variables-theme-2.scss */                                   /*Menu color*/
+a.default-hovered:hover:after, a.default-hovered.default-hover:after {
+  background: #4286f4;
+  opacity: 0.8;
+}
+
+/* line 45, ../sass/variables-theme-2.scss */
+.header.top-menu.minimized-menu .primary .navbar .btn-navbar .icon-bar,         /*Menu color*/
+.header.top-menu.transform-menu .primary .navbar .btn-navbar .icon-bar,
+.header.minimized-menu .primary .navbar .btn-navbar .icon-bar,
+.top-nav-line #menu-open .icon-bar {
+  background-color: #4286f4;
+}
+
+/* line 50, ../sass/variables-theme-2.scss */                                   /*Menu color*/
+.header.top-menu.minimized-menu .primary .navbar .btn-navbar,
+.header.top-menu.transform-menu .primary .navbar .btn-navbar,
+.header.minimized-menu .primary .navbar .btn-navbar {
+  border-color: #4286f4;
+}
+/* line 52, ../sass/variables-theme-2.scss */                                   /*Menu color*/
+.header.top-menu.minimized-menu .primary .navbar .btn-navbar.opened,
+.header.top-menu.transform-menu .primary .navbar .btn-navbar.opened,
+.header.minimized-menu .primary .navbar .btn-navbar.opened {
+  background: #4286f4;
+}
+
+#contact .table-box h1 {                                                  /*C in Contact*/
+  color: #4286f4;
+}
+
+.btn-default.white-style {
+  color: #4286f4;
+}
+
+/* line 212, ../sass/variables-theme-2.scss */
+input[type="text"].white-style, input[type="email"].white-style,
+input[type="password"].white-style, input[type="name"].white-style {
+  background: #fff;
+  box-shadow: inset 0 1px 0px #4286f4;
+}
+
+/* line 216, ../sass/variables-theme-2.scss */
+textarea.white-style {
+  background: #fff;
+  box-shadow: inset 0 1px 0px #4286f4;
+}
+
+/* line 223, ../sass/variables-theme-2.scss */
+textarea.white-style:focus {
+  box-shadow: inset 0 1px 0px #02b26a;
+}
+
